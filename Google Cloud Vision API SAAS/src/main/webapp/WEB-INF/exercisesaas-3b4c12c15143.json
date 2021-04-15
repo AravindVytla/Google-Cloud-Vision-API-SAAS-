@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "exercisesaas",
+  "private_key_id": "3b4c12c15143964ae295c9056f6bc772791913bd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDxBoHIOtC3tbfJ\n3IiKI3Cos/a49Wi9Oo+TJw1/b3Poc/PE+uWA8fSJpPyVNmDuNIC/ESlx6vVIa9XX\nnyH2KJ2UA+7Dhj0qEn+6IWPaWvBZzNqkKkAtqswDfYsG4//MCDtnU4AclAyuwGWt\ngeSkIP6Dq2E45aWIHAGINJLhHz3xFiie2zzo3l7IpMwxFeRpYmh+7I/XHEdMWhh8\nFCV4XOk+UJVxuQZHGBt1MWO9tDv/ScHuSWhzTvqHuChXnUQR4YVO9Eju8/ldz8tZ\nzTuKG/NvwiQAhrkyPgn6NZYlAOtLLYxn+CV6yzePVnYpkvd4w42f35SJ8GpHvyBA\nOf2N1mTVAgMBAAECggEAWeApSPbVmYuDaxx3NbudaOsilzm7wsQxgZfQarKusAF8\n5vj/16NhomoJXcKXRnwBfj3yDG6m5EiBxxOp4Fao2+bTg8lsyWF4i3mj+Gpssa+3\n3/t5Tw4fYTXRP9KJMhXnwNHcNcvnJsrLn3WOQr2i6opfiI3pueVnlNi15Ih32ovF\nfJsh8eUfO1iFJ3le7BYKq47U/GbSDN0RQZQo1j7F+V6qYmjw6PskE6yuukKFNgtf\nFiWzhb5F0d9BGr1EVV8E6sfnBjK7FdCXY6ZUs0CigSg5CsmqqgBsEZv2LjJa68cD\nmEeYjCYmUeDqyQ7NM0aywUOIqfnoJi2OJFfROh2QCQKBgQD5UaGkSwe25vna0xx0\n2l9UhAD64AOYevFkfjhVC3HnsElloqEs/PfX/bt52iKS4MTVP4vGxmgtLooZC7yN\ntAxQBcLZod26LiQGqa5VD2XTTJ0RjvB9+3OXrSMKI2HCnCY+zFM+gsR8aTCKGXTa\nGvZrhBGcHcJzqtah6QypjX+GMwKBgQD3e/soDqCchWxWCV5qU5scgusSyKvLwS5l\nMDBjj1gzRRyqATcH7WAhyjWBkGwkmS5dPHyfxlE3fAf17MGm2ysaqMipNWTXaQnD\nQsJwomuluQ/46jG22WaionfjlGtrU88Ds0kLYmMZWCUpMrukdR7s73gij2RkhVdn\nlr4lUsCQ1wKBgQDGR/au7AEJpG6HaqhSAq4YUBdbbjdN2FEMpBl3AXAoXBozW4Cl\nf9Y4kBG+mg4vE9VW53/pqTeG32FzA9OEOvIj3kEVxlbJ0BJUvjPocCOCRYcRRMXc\n29MViNu6H2OLW5ZLEUMPDv7nFt1Ep3Q4VYMvBMzghQZ16SNjhy3L1r3Z4wKBgQCs\nj0YQKCLVADMJyn6KpMECoEZIUqN27rvq0i7rPIfDN+1EnJRCcsEUzmmAbbL50dUC\nLaq3vQ/kIBds4igkr6zeadGAKjql+BdWjrYE0zs70k3QwXrog62MuLvfcx1zOHyf\nl+LWjUOL6GoAz98GTKPDkTWy40iczlyjXfg3Dfw3AQKBgQDJD1BfmcqaKbJNeDnS\nxM2CrwM77FgRixXOdGPf8AFGGgvfFsKvnbTyn5imt/kAyssc9GEtdQZePV4tNjDs\nusOCII5e9+zadj9EzS2LA8peRg0VGjKU4HZehEVoq5Z2Z16laLsbvyzSclQBKrin\nKjOj7jo3FjdOpRKkYTtw9D15kA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "exercisesaas@exercisesaas.iam.gserviceaccount.com",
+  "client_id": "116986604019202623887",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/exercisesaas%40exercisesaas.iam.gserviceaccount.com"
+}
