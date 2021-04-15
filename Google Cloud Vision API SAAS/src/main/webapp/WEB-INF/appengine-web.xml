@@ -12,7 +12,7 @@
   
   <env-variables>
             <env-var name="GOOGLE_APPLICATION_CREDENTIALS"
-                value="WEB-INF/exercisesaas-3b4c12c15143.json" />
+                value="WEB-INF/gentle-scene-3037-3d903bcf8ac0" />
         </env-variables>
 
 </appengine-web-app>
